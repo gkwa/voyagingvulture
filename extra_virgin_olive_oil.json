@@ -1,5 +1,143 @@
 [
   {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.qfc.com/p/star-extra-virgin-olive-oil/0007321000013?fulfillment=PICKUP",
+    "id": "94d5ac50-4665-4b0a-ac94-fd7938aa96ee",
+    "product_name": "Star Extra Virgin Olive Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.amazon.com/Virg-Italian-Olive-High-Polyphenols/dp/B09C3BQV2R",
+    "id": "26add8db-630a-4ae8-bb7e-077aa66f4d6c",
+    "product_name": "N°1 Drinking Extra Virgin Olive Oil - Italian Olive Oil from Italy 2025 Gold Awards Winner"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.target.com/p/100-organic-spanish-extra-virgin-olive-oil-16-9fl-oz-good-38-gather-8482/-/A-82102702#lnk=sametab",
+    "id": "1ec6b7f6-2e59-4281-8a84-f90e7a7681e5",
+    "product_name": "Good & Gather 100% Organic Spanish Extra Virgin Olive Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.wholefoodsmarket.com/product/whole-foods-market-morocco-extra-virgin-olive-oil-169-fl-oz-b0ctn18fw7",
+    "id": "bfbf8623-5c96-4f5c-ad73-e7ee387c7d0b",
+    "product_name": "Morocco Extra Virgin Olive Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "N/A",
+    "id": "5f78dd02-2814-4afe-8082-3eb2eeaf6451",
+    "product_name": "Ellora Farms Single Estate Traceable Extra Virgin Olive Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.safeway.com/shop/product-details.115200084.html",
+    "id": "186d6888-0788-48f5-ade8-70e7c8d6ace6",
+    "product_name": "O Organics Olive Oil Extra Virgin"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.walmart.com/ip/Filippo-Berio-Extra-Virgin-Olive-Oil-25-3-fl-oz/20590102",
+    "id": "ff5a0e7a-7b60-4939-b33f-04152e63b073",
+    "product_name": "Filippo Berio Extra Virgin Olive Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.walmart.com/ip/Sky-Organics-Organic-Extra-Virgin-Olive-Oil-for-Cooking-16-fl-oz/328262903",
+    "id": "671afb98-f827-42f5-affe-d4b542cc5e7d",
+    "product_name": "Sky Organics Organic Extra Virgin Olive Oil for Cooking"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.amazon.com/Amazon-Brand-Virgin-Mediterranean-Previously/dp/B07WYXJY8J",
+    "id": "083e3ee6-4741-47fd-9b1f-8f474aa03a32",
+    "product_name": "Amazon Grocery Extra Virgin Olive Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://delivery.pccmarkets.com/store/pcc-community-markets/products/260441-field-day-organic-extra-virgin-olive-oil-500-ml",
+    "id": "8a91d112-c255-4e79-9288-2d18d111d137",
+    "product_name": "FIELD DAY Olive Oil, Organic, Extra Virgin, First Cold Pressed"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.safeway.com/shop/product-details.115200308.html",
+    "id": "3a99ca1d-039e-4a8a-bb9e-73d66065f9b8",
+    "product_name": "Filippo Berio Olive Oil Extra Virgin"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.amazon.com/Cecco-Extra-Virgin-Olive-101-4/dp/B01G1LFN76",
+    "id": "b021acd4-99fa-4851-9086-60ee8c23ddf2",
+    "product_name": "De Cecco Extra Virgin Olive Oil, Classico, Cold Extraction"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.target.com/p/100-italian-extra-virgin-olive-oil-16-9fl-oz-good-38-gather-8482/-/A-82102420#lnk=sametab",
+    "id": "bc443907-0e06-4077-9c0a-08768c7630ee",
+    "product_name": "Good & Gather 100% Italian Extra Virgin Olive Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.safeway.com/shop/product-details.115200006.html",
+    "id": "917bd8f0-d762-41e4-9898-d23a376149d5",
+    "product_name": "Bertolli Olive Oil Extra Light Tasting"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.amazon.com/California-Olive-Ranch-Everyday-Virgin/dp/B00CO1YXL0",
+    "id": "bd0a6b44-d199-4de6-9bc6-55f05f16b417",
+    "product_name": "California Olive Ranch Everyday Extra Virgin Olive Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://delivery.pccmarkets.com/store/pcc-community-markets/products/260441-field-day-organic-extra-virgin-olive-oil-500-ml",
+    "id": "d5fc750e-f4b9-4864-8729-f56a869def90",
+    "product_name": "FIELD DAY Olive Oil, Organic, Extra Virgin, First Cold Pressed"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.wholefoodsmarket.com/product/frankies-organic-extra-virgin-olive-oil-1-each-b0058vcu5o",
+    "id": "67c5ce85-c5de-4bfd-9499-84244a03e480",
+    "product_name": "Organic Extra Virgin Olive Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://delivery.pccmarkets.com/store/pcc-community-markets/products/83210-lucini-italia-extra-virgin-olive-oil-16-9-fl-oz",
+    "id": "13f68b91-c12b-4ae3-9962-56c7c9acbfd4",
+    "product_name": "Lucini Italia Olive Oil, Extra Virgin"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://delivery.pccmarkets.com/store/pcc-community-markets/products/521570-lucini-italia-olive-oil-organic-extra-virgin-everyday-italian-16-9-fl-oz",
+    "id": "517cea57-06a3-4161-b706-1e6a4c7d4740",
+    "product_name": "Lucini Italia Olive Oil, Organic, Extra Virgin, Everyday Italian"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.walmart.com/ip/Bertolli-Sustainably-Sourced-Extra-Virgin-Olive-Oil-16-9-fl-oz/2353332221",
+    "id": "fb16733d-97fc-4a1c-8b85-b0193491dc91",
+    "product_name": "Bertolli Sustainably Sourced Extra Virgin Olive Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.amazon.com/Iliada-Multi-Awarded-Monovarietal-Koroneiki-Polyphenol/dp/B003TO9SJS",
+    "id": "73f16043-9a1c-46d8-b89c-c7d1d64e64f6",
+    "product_name": "Iliada Kalamata PDO Extra Virgin Olive Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://delivery.pccmarkets.com/store/pcc-community-markets/products/21226625-madhava-organic-extra-virgin-olive-oil-33-8-oz",
+    "id": "5d5224ea-e8f1-453c-8ac2-b1729184850a",
+    "product_name": "Madhava Organic Extra Virgin Olive Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": true,
+    "url": "https://www.fredmeyer.com/p/pompeian-smooth-extra-virgin-olive-oil/0007040400282?fulfillment=PICKUP",
+    "id": "403a9ea6-e328-4656-8133-da534d6bbd68",
+    "product_name": "Pompeian® Smooth Extra Virgin Olive Oil"
+  },
+  {
     "id": "de7e51a3-a476-4d42-b548-f53789478f96",
     "is_extra_virgin_olive_oil": true,
     "url": "https://www.walmart.com/ip/Terra-Creta-Early-Harvest-Extra-Virgin-Olive-Oil-16-9floz/1768128735",
@@ -742,6 +880,42 @@
     "url": "https://www.fredmeyer.com/p/california-olive-ranch-global-blend-medium-extra-virgin-olive-oil/0085068710400?fulfillment=PICKUP",
     "id": "99febac9-dd06-4f12-bd0b-81bb687a813c",
     "product_name": "California Olive Ranch® Global Blend Medium Extra Virgin Olive Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": false,
+    "url": "https://www.traderjoes.com/home/products/pdp/shea-butter-coconut-oil-hair-mask-061447",
+    "id": "d3cdbcc4-615b-4b36-b25e-6ae101acbddd",
+    "product_name": "Shea Butter & Coconut Oil Hair Mask"
+  },
+  {
+    "is_extra_virgin_olive_oil": false,
+    "url": "https://www.qfc.com/p/private-selection-avocado-oil/0001111012986?fulfillment=PICKUP",
+    "id": "cd753923-5f8e-4349-ac6a-979124a1efb8",
+    "product_name": "Private Selection™ Avocado Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": false,
+    "url": "https://delivery.pccmarkets.com/store/pcc-community-markets/products/16401904-avohass-organic-extra-virgin-avocado-oil-8-5-fl-oz",
+    "id": "039abb18-2d41-4e6a-8ef8-e7ccc956e71d",
+    "product_name": "Avohass Organic Extra Virgin Avocado Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": false,
+    "url": "N/A",
+    "id": "a6e1e5df-2fd1-44b3-9580-ecc608ed210b",
+    "product_name": "Iberia Sunflower & Extra Virgin Olive Oil Blend"
+  },
+  {
+    "is_extra_virgin_olive_oil": false,
+    "url": "https://www.traderjoes.com/home/products/pdp/lemongrass-coconut-body-oil-060873",
+    "id": "c9ea6198-69ce-4ac2-ad2e-44d1acace774",
+    "product_name": "Lemongrass Coconut Body Oil"
+  },
+  {
+    "is_extra_virgin_olive_oil": false,
+    "url": "https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-extra-virgin-olive-oil-and-sea-salt-popcorn-5-oz-b08tqhvzch",
+    "id": "bf6fdaa8-3004-4fb9-a4ad-0e98c7faecd9",
+    "product_name": "Organic Extra Virgin Olive Oil and Sea Salt Popcorn"
   },
   {
     "id": "c4cb13f7-ab05-430f-9229-b13dab30c226",
